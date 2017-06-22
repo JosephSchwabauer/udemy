@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+table {
+  /* padding-left: 40px;
+   padding-right: 40px;
+   */
+   margin: auto;
+}
+
+#first {
+  background-color: #247BA0;
+  padding-right: 20px;
+}
+
+#second {
+  background-color: #70C1B3;
+}
+
+#third {
+  background-color: #B2DBBF;
+}
+#fourth {
+  background-color: #F3FFBD;
+}
+#fifth {
+  background-color: #FF1654;
+  
+}
