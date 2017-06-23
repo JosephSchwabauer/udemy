@@ -10,6 +10,13 @@ table {
    margin: auto;
 }
 
+td {
+  width : 200px;
+  height : 500px;
+  border: 10px solid white;
+
+}
+
 #first {
   background-color: #247BA0;
   padding-right: 20px;
